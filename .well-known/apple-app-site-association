@@ -1,0 +1,79 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "NCGELS6998.co.visualsupply.cam",
+                "paths": [
+                    "/user/verify",
+
+                    "NOT /about",
+                    "NOT /about/*",
+                    "NOT /Admin",
+                    "NOT /app",
+                    "NOT /cam",
+                    "NOT /careers",
+                    "NOT /cartfilm",
+                    "NOT /company",
+                    "NOT /contact",
+                    "NOT /cookie_policy",
+                    "NOT /dmca_policy",
+                    "NOT /download",
+                    "NOT /initiative",
+                    "NOT /material_connection_disclosure",
+                    "NOT /redeem",
+                    "NOT /share",
+                    "NOT /store",
+                    "NOT /store/*",
+                    "NOT /tempjournaleditor",
+                    "NOT /terms_of_use",
+                    "NOT /upload",
+                    "NOT /vsco/signin",
+                    "NOT /vscocam",
+                    "NOT /vscokeys",
+                    "NOT /user",
+                    "NOT /user/*",
+                    "NOT /connect/*",
+
+                    "*"
+                ]
+            },
+            {
+                "appID": "XVT8K7BYMV.co.vsco.cambeta",
+                "paths": [
+                    "/user/verify",
+
+                    "NOT /about",
+                    "NOT /about/*",
+                    "NOT /Admin",
+                    "NOT /app",
+                    "NOT /cam",
+                    "NOT /careers",
+                    "NOT /cartfilm",
+                    "NOT /company",
+                    "NOT /contact",
+                    "NOT /cookie_policy",
+                    "NOT /dmca_policy",
+                    "NOT /download",
+                    "NOT /initiative",
+                    "NOT /material_connection_disclosure",
+                    "NOT /redeem",
+                    "NOT /share",
+                    "NOT /store",
+                    "NOT /store/*",
+                    "NOT /tempjournaleditor",
+                    "NOT /terms_of_use",
+                    "NOT /upload",
+                    "NOT /vsco/signin",
+                    "NOT /vscocam",
+                    "NOT /vscokeys",
+                    "NOT /user",
+                    "NOT /user/*",
+                    "NOT /connect/*",
+
+                    "*"
+                ]
+            }
+        ]
+    }
+}
